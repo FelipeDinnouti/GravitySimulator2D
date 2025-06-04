@@ -1,0 +1,6 @@
+- [x] Make balls collide like balls (and bounce off of each other)
+- [x] Mouse interaction - create actors and gravitate towards mouse 
+- [ ] Make trails behind each actor
+- [x] Help menu
+- [x] Basic camera logic
+- [ ] Make "camera" focus on certain actors
